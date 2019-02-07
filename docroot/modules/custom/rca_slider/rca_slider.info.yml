@@ -1,0 +1,6 @@
+name: RCA Slider
+description: Provides a new field type to build slider.
+package: Custom
+
+type: module
+core: 8.x
